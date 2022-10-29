@@ -1,16 +1,16 @@
 {
-"name": "wrist99slot",
-"theme": "wrist 99 slot",
-"version": "3.3.4",
-"description": "wrist 99 slot สมัครเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
-"keywords": [
-"wrist 99 slot",
-"wrist 99 slot เครดิตฟรี",
-"wrist 99 slot ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/wrist99slot",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "wrist99slot",
+  "theme": "wrist 99 slot",
+  "version": "3.4.0",
+  "description": "wrist 99 slot สมัครเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "wrist 99 slot",
+    "wrist 99 slot เครดิตฟรี",
+    "wrist 99 slot ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/wrist99slot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
